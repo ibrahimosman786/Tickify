@@ -1,12 +1,27 @@
-const Layout = ({ children }: {children: React.ReactNode}) => {
-    return (
-        <div className=" w-screen animated-background h-screen bg-gradient-to-r from-emerald-200 via-lime-200 to-green-200">
-            <div className="bg-dotted-pattern flex flex-center min-h-screen">
-                {children}
-            </div>
-           
-        </div>
-    )
-}
+import Footer from "@/components/shared/Footer";
+import Header from "@/components/shared/Header";
+import type { Metadata } from "next";
 
-export default Layout
+
+
+export const metadata: Metadata = {
+  title: "Muslims Student Association (MSA)",
+  description: "University of Alberta Event planning website | Allahu Akbar",
+  icons: {
+    icon: '/assets/images/logo.svg'
+  }
+};
+
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
+  return (
+    <div className="flex h-screen flex-col">
+    <Header />
+      <main className="flex-1">{children}</main>
+      <Footer />
+    </div>
+  );
+}
