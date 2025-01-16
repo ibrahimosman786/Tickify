@@ -88,7 +88,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Contact Us 📬
 Have questions or feedback? Reach out to us:
 - Email: ibrahimosman1040@gmail.com
-- Twitter: [@TickifyApp](https://twitter.com/TickifyApp)
+- Instagram: [@TickifyApp](https://www.instagram.com/ibrahimosman45/)
 - GitHub: [Tickify](https://github.com/ibrahimosman786/Tickify)
 
 ---
