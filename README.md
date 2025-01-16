@@ -27,7 +27,8 @@ Welcome to **Tickify**! The ultimate platform to discover, book, and enjoy event
 ## Screenshots 📸
 
 ### **Home Page**
-![Home Page](https://via.placeholder.com/800x400)
+![Home Page][DALL·E 2025-01-16 00 49 23 - A sleek and modern UI design concept for a ticketing event application called Tickify  The main page showcases vibrant event categories such as concer](https://github.com/user-attachments/assets/3ff20e3b-a96b-41c7-acdb-a8368f874c39)
+
 > *Discover vibrant categories and featured events with stunning visuals.*
 
 ### **Event Details Page**
