@@ -31,7 +31,8 @@ Welcome to **Tickify**! The ultimate platform to discover, book, and enjoy event
 
 ### **1. Clone the Repository**
 ```bash
-https://github.com/ibrahimosman786/Tickify.git
+git clone https://github.com/ibrahimosman786/Tickify.git
+cd Tickify
 ```
 
 ### **2. Install Dependencies**
